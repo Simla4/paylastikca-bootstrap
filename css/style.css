@@ -14,7 +14,26 @@ body{
     max-width: 250px;
     margin: 25px auto;
 }
-.icon-i{
+.gray-i{
     color: #343a40;
-    
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.white-i{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+}
+.galeri{
+    background-color: #f2f2f2;
+}
+.figure:hover{
+    opacity: 0.8;
 }
