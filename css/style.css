@@ -1,0 +1,20 @@
+.slider-img{
+    height: 600px;
+}
+
+body{
+    padding-top: 50px;
+}
+.hakkimizda{
+    background-color: #f2f2f2;
+}
+.icon-hr{
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.icon-i{
+    color: #343a40;
+    
+}
